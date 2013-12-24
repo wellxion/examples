@@ -6,21 +6,6 @@ Access
 * [GetStarted](https://github.com/linq2db/examples/tree/master/Access/GetStarted).
    Get started with LINQ to Access.
 
-Firebird
---------
-* [GetStarted](https://github.com/linq2db/examples/tree/master/Firebird/GetStarted).
-   Get started with LINQ to Firebird.
-
-PostgreSQL
-----------
-* [GetStarted](https://github.com/linq2db/examples/tree/master/PostgreSQL/GetStarted).
-   Get started with LINQ to PostgreSQL.
-
-SqlCe
------
-* [GetStarted](https://github.com/linq2db/examples/tree/master/SqlCe/GetStarted).
-   Get started with LINQ to SqlCe.
-
 SQLite
 ------
 * [GetStarted](https://github.com/linq2db/examples/tree/master/SQLite/GetStarted).
